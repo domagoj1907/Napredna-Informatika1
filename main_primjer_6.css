@@ -1,0 +1,48 @@
+header{
+	text-align:center;
+}
+ul{
+	list-style-type:none;
+}
+.Linkovi{
+	width:15%;
+	float:left;
+	font-family: Calibri;
+	font-size:22px;
+}
+.Tekst{
+	width:30%;
+	float:left;
+	margin:0 75px 50px 150px;
+	font-family:Arial;
+}
+.Naslov{
+	text-decoration:underline;
+	text-shadow: 1px 1px grey;
+}
+.Video{
+	width:10%;
+	float:left;
+	margin:0 100px;
+}
+a:link{
+	color: #EE8310;
+}
+a:visited{
+	color: #10D4EE;
+}
+a:hover{
+	color: #1032EE;
+}
+a:active{
+	color: #EE8310;
+}
+.OpisSlika{
+	font-style:italic;
+	margin:10px 0px 10px 10px;
+	text-align:right;
+}
+#map{
+	width:100%;
+	margin:200px 200px 200px 200px;
+}
